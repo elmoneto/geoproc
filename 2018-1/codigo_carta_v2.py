@@ -12,9 +12,11 @@ def carta_milionesimo(arglat, arglon):
         cod_carta.append('S')
 
     cod_faixa = math.floor(abs(arglat) / 4)
+    if arglat < 0 and arglat % 4 == 0 :
+        cod_faixa -= 1
     cod_carta.append(codigo_faixas[cod_faixa])
 
-    cod_fuso = math.ceil((arglon + 180) / 6)
+    cod_fuso = (math.ceil((arglon + 180) / 6)) % 60
     if arglon % 6 == 0:
         cod_fuso += 1
     cod_carta.append(cod_fuso)
