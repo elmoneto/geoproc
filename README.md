@@ -1,4 +1,7 @@
-#Curso Técnico em Geoprocessamento
--Anotações de aula
--Material extraclasse
--Códigos-fonte auxiliares
+# Curso Técnico em Geoprocessamento
+
+- Anotações de aula
+
+- Material extraclasse
+
+- Códigos-fonte auxiliares
