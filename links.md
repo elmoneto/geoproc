@@ -31,9 +31,10 @@
 ## Desenvolvimento de aplicações no QGIS
 
 [Guia de desenvolvimento para Python](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/)
+
 ---
 
-#Eventos
+# Eventos
 
 [FOSS4G 2018](https://2018.foss4g.org/)
 
