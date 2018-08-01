@@ -24,10 +24,12 @@
 # Materiais de Estudo
 
 ## Introdução ao PostGIS
+
 [Boundless Geo](http://workshops.boundlessgeo.com/postgis-intro/welcome.html)
 [PostGIS Documentation](https://postgis.net/docs/postgis_introduction.html)
 
 ## Desenvolvimento de aplicações no QGIS
+
 [Guia de desenvolvimento para Python](https://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/)
 ---
 
@@ -40,6 +42,7 @@
 ---
 
 # Ferramentas e Fontes de Dados
+
 [Downloads - Geociências IBGE](https://www.ibge.gov.br/geociencias-novoportal/downloads-geociencias.html)
 
 [Portal de Mapas do IBGE](https://portaldemapas.ibge.gov.br/portal.php)
